@@ -12,5 +12,7 @@
             "Tsukasa0307\\LaraAuto\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+    "monolog/monolog": "^3.4"
+  }
 }
