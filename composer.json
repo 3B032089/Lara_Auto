@@ -1,0 +1,16 @@
+{
+  "name": "tsukasa0307/lara_auto",
+  "description": "autoload class",
+  "authors": [
+    {
+      "name": "阮彥翔",
+      "email": "Yaesakura716207@gmail.com",
+    }
+  ],
+    "autoload": {
+        "psr-4": {
+            "Tsukasa0307\\LaraAuto\\": "src/"
+        }
+    },
+    "require": {}
+}
